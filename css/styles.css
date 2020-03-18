@@ -9,3 +9,18 @@ h1,h2,h3,h4,h5,h6,p{
 .jumbotron{
     background-color: #9b9696;
 }
+.pitch2{
+    background-image: url('../img/picth2.jpg');
+    background-size: cover;
+    height: 200px;
+}
+.chapter2{
+    background-image: url('../img/chapter2.jpg');
+    background-size: cover;
+    height: 800px;
+}
+.asided{
+    background-image: url('../img/chapter2.jpg');
+    background-size: cover;
+    height: 400px;
+}
